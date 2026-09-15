@@ -12,6 +12,7 @@
 #include <vector>
 #include <unordered_map>
 #include "llm/common.hpp"
+#include "llm/model.hpp"   // [fix] load_config/load_model return ModelConfig/ModelWeights
 
 namespace llm {
 
