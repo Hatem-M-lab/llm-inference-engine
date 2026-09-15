@@ -1,6 +1,6 @@
 # LLM Inference Engine — Reference Code
 
-Companion reference implementation for **Build an LLM Inference Engine in C++ — Through Challenges**.
+Companion reference implementation for **[Build an LLM Inference Engine in C++ — Through Challenges](https://leanpub.com/buildanllminferenceengineinc)**,
 The book teaches you to build this yourself, challenge by challenge; this tree is the assembled,
 compile-verified reference.
 
